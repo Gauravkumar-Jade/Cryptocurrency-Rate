@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cryptocurrency Rate</string>
+    <string name="crypto_rates">Crypto Rates</string>
+    <string name="refresh">Refresh</string>
+    <string name="loading">Loading</string>
+    <string name="dollar_price">%1$s $</string>
+    <string name="last_update">Last Update:- %1$s</string>
+    <string name="no_connection_message">"No network connection. "</string>
+</resources>
